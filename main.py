@@ -30,7 +30,7 @@ def preprocess_text(text):
 
 import streamlit  as st
 
-st.title('IMDB Movie  Review Sentiment Analysis')
+st.title('OpinionNet')
 st.write('Enter a movie review to classify it as positive or negative')
 
 # user input
@@ -50,3 +50,4 @@ if st.button('Classify'):
     st.write(f'Prediction Score: {prediction[0][0]}')
 else:
     st.write('Plese Enter a movie review.')    
+
