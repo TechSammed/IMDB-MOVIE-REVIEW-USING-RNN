@@ -1,3 +1,4 @@
+## OpinionNet 
 #Movie Review Sentiment Analysis (RNN-Based)
 
 A deep learning project that predicts whether a movie review is Positive or Negative using a Recurrent Neural Network (RNN).
